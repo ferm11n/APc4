@@ -1,0 +1,10 @@
+Si es la primera vez que habre el archivo txt, 
+entonces se le va hacer mas facil entender el porque de mis acciones
+si se fija bien, en los siguientes ejercicios 
+y seguramente en los anteriores de las clases pasadas (No me acuerdo),
+escribo las variables en ingles y con algunos errores de "buenas practicas",
+ya que no respeto al 100% el modo de lowerCamelCase.
+Pero es que ultimamente estoy aprendiendo ingles y tengo una mania en escribir palabras en ingles,
+espero que los ejercicios esten bien 
+
+Un saludo, Ferm11n.
